@@ -9,7 +9,7 @@ display:flex ;
 
 .cartao {
 margin: 1rem 1rem;
-background-color: rgba(255, 0, 132, 0.61);
+background-color: rgba(255, 0, 132, 0.535);
 height: 20rem;
 flex-grow: 1;
 flex-basis: calc(33% -6rem);
