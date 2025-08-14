@@ -16,7 +16,7 @@ criaCartao(
     'Oxigênio'
 )
     criaCartao(
-    'Entretenimento',
+    'Entreterimento',
     'Qual é o nome do mago que guia Frodo na trilogia "O Senhor dos Anéis"?',
     'Gandalf'
 )
